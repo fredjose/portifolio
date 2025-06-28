@@ -79,21 +79,21 @@ p {
     word-spacing: .15rem;
 }
 
-.button {
-    background-color: #007bff;
-    border: none;
-    padding: 10px;
-    border-radius: 6px;
-    cursor: pointer;
-    color: white;
+button {
+      background-color: #007bff;
+      border: none;
+      padding: 10px;
+      border-radius: 6px;
+      cursor: pointer;
+      color: white;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #375cca;
 }
 
 svg {
-    vertical-align: middle;
+   vertical-align: middle;
 }
 
 .btn-contorno {
