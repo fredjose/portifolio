@@ -30,7 +30,12 @@ a {
     color: #6e8ce6;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-weight: normal;
 
     color: #555;
@@ -74,6 +79,22 @@ p {
     word-spacing: .15rem;
 }
 
+.button {
+    background-color: #007bff;
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    color: white;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+svg {
+    vertical-align: middle;
+}
 
 .btn-contorno {
     border: solid 1px #ddd;
@@ -109,7 +130,7 @@ p {
 
 .btn-solido:hover {
     background-color: #354883;
-   
+
 }
 
 .div-sobre-foto img {
